@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="wipe_button">Сброс</string>
+    <string name="goalDivider">:</string>
+    <string name="leftTeam">Бразилия</string>
+    <string name="rightTeam">Германия</string>
+</resources>
