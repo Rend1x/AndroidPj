@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="second_number">Второе число</string>
+    <string name="first_number">Первое число</string>
+    <string name="addition">Сложение</string>
+    <string name="hint_one">Введите первое число</string>
+    <string name="hint_two">Введите второе число</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="result">Результат</string>
+    <string name="fillError">Заполните строку!!!!</string>
+    <string name="fillError1">Длинна числа не должна превышать 9 цифр!</string>
+</resources>
