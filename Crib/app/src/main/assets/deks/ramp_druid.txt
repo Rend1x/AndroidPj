@@ -1,0 +1,6 @@
+Classic Ramp Druid is a deck that revolves around playing a lot of big minions after ramping up your mana the early turns. Cards like Wild Growth and Innervate allow you to build the deck with lots of expensive minions, and not have to fill your deck with weak, early-game minions.
+
+Ramp Combo Druid is a deck built around the mana-refreshing effect of Kun the Forgotten King. By playing Aviana and Kun the Forgotten King in the same turn, players can do a lot of things, such as Alexstraza, Ragnaros the Firelord, and Faceless Manipulator; Brann Bronzebeard, C'Thun, Young Brewmaster, and C'Thun; or Malygos, Faceless Manipulator and spells.
+
+These kinds of decks all rely on at least a five-card combo for OTK, and thus should usually be played as tempo decks with Kun and another huge minion or Aviana for a swing turn, unless your opponent runs board removal spells like Twisting Nether.
+

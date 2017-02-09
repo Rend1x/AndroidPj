@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Tier 1">
+        <menu>
+            <item
+                android:id="@+id/aggro_shaman"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Aggro Shaman" />
+            <item
+                android:id="@+id/reno_mage"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Reno Mage" />
+            <item
+                android:id="@+id/jade_shaman"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Jade Mid-Range Shaman" />
+            <item
+                android:id="@+id/pirate_warrior"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Pirate Warrior" />
+            <item
+                android:id="@+id/renolock"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Renolock" />
+        </menu>
+    </item>
+    <item android:title="Tier 2">
+        <menu>
+            <item
+                android:id="@+id/miracle_rogue"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Miracle Rogue" />
+            <item
+                android:id="@+id/control_warrior"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Control Warrior" />
+            <item
+                android:id="@+id/dragon_priest"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Dragon Priest" />
+        </menu>
+    </item>
+    <item android:title="Tier 3">
+        <menu>
+            <item
+                android:id="@+id/control_shaman"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Control Shaman" />
+            <item
+                android:id="@+id/dragon_warrior"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Dragon Warrior" />
+            <item
+                android:id="@+id/jade_druid"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Jade Druid" />
+            <item
+                android:id="@+id/pirate_rogue"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Pirate Rogue" />
+            <item
+                android:id="@+id/reno_priest"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Reno Priest" />
+             <item
+                android:id="@+id/anyfin_paladin"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Anyfin Paladin" />
+             <item
+                android:id="@+id/tempo_mage"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Tempo Mage" />
+             <item
+                android:id="@+id/ramp_druid"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Ramp Druid" />
+             <item
+                android:id="@+id/freeze_mage"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Freeze Mage" />
+        </menu>
+    </item>
+
+
+</menu>
